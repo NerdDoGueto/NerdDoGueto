@@ -1,8 +1,3 @@
-
----
-
-<img align="right" alt="vector created by - www.freepik.com" width="400" height="380" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&duration=4000&pause=500&color=15FD02C8&center=true&vCenter=true&random=false&width=435&lines=Seja+Bem+Vindo!;Meu+nome+%C3%A9+Jos%C3%A9+Junior.;Welcome!;My+name+is+Jos%C3%A9+Junior.)](https://git.io/typing-svg) 
 
 
